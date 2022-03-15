@@ -4,7 +4,6 @@
 - 💞️ I’m looking for a job
 - Fifth in collage And Third Of my Department (IS)
 - Can learn any thing 
-<!---
-ahmedkhederali/ahmedkhederali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- skills in Nodejs (node - express - restApi - work global - MOngoDB -Mongoose -Docker -)
+- Skills in Reacjs ( All Features ) 
+-
