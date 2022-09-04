@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ahmedkhederali
 - 👀 I’m interested in Full stack Developer (nodejs & Reactjs)
-- 🌱 I’m currently learning in faculty of computer and information
-- 💞️ I’m looking for a job
+- 🌱 I’m currently Graduation From faculty of computer and information
+-   Graduation Year: 2022
+- 💞️ Working In Dirac System In New Cairo as a FrontEnd
 - Fifth in collage And Third Of my Department (IS)
 - Can learn any thing 
 - skills in Nodejs (node - express - restApi - work global - MOngoDB -Mongoose -Docker -)
