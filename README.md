@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali</h1>
 <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 
-- 🔭 I’m currently working on [ERP Systems](https://www.fawrypayday.com/)
+- 🔭 I’m currently working on [Dirac Systems](https://www.linkedin.com/company/dirac-systems/mycompany/)
 
-- 👯 I’m looking to collaborate on **Doctors**
+- 🌱 I’m currently learning **NestJS**
+
+- Doctors Project [React & nodeJS](https://doctorssers.netlify.app/)
+
+- 👨‍💻 All of my projects are available at [https://github.com/ahmedkhederali](https://github.com/ahmedkhederali)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/ahmed-ali-53a449215/](https://www.linkedin.com/in/ahmed-ali-53a449215/)
+
+- 💬 Ask me about **ReactJS & NodeJS & MangoDB & ExpressJS**
+
+- 📫 How to reach me **ahhmeadali1256@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1J10UyuJDkBHvaRv6S4qyaz08Kvx5ja6H/view?usp=drive_link](https://drive.google.com/file/d/1J10UyuJDkBHvaRv6S4qyaz08Kvx5ja6H/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
